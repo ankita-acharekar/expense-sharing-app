@@ -1,0 +1,13 @@
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Service/ExpenseService.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/expense/ExpenseType.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Main.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/ExpenseManager.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/package-info.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/expense/EqualExpense.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/split/Split.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/User.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/split/EqualSplit.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/expense/ExpenseMetadata.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/expense/ExactExpense.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/split/ExactSplit.java
+/home/deq/Documents/workspace-spring-tool-suite-4-4.16.1.RELEASE/expense-sharing-app/src/main/java/com/deq/practice/Model/expense/Expense.java

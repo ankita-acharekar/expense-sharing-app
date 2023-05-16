@@ -1,0 +1,66 @@
+package com.deq.practice.Model.expense;
+/**
+ * @author ${Ankita}
+ */
+import java.util.List;
+
+import com.deq.practice.Model.User;
+import com.deq.practice.Model.split.Split;
+
+public abstract class Expense {
+
+	private String id;
+    private double amount;
+    private User paidBy;
+    private List<Split> splits;
+    private ExpenseMetadata metadata;
+
+    public Expense(double amount, User paidBy, List<Split> splits, ExpenseMetadata metadata) {
+        this.amount = amount;
+        this.paidBy = paidBy;
+        this.splits = splits;
+        this.metadata = metadata;
+    }
+
+	public String getId() {
+		return id;
+	}
+
+	public double getAmount() {
+		return amount;
+	}
+
+	public User getPaidBy() {
+		return paidBy;
+	}
+
+	public List<Split> getSplits() {
+		return splits;
+	}
+
+	public ExpenseMetadata getMetadata() {
+		return metadata;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+	}
+
+	public void setAmount(double amount) {
+		this.amount = amount;
+	}
+
+	public void setPaidBy(User paidBy) {
+		this.paidBy = paidBy;
+	}
+
+	public void setSplits(List<Split> splits) {
+		this.splits = splits;
+	}
+
+	public void setMetadata(ExpenseMetadata metadata) {
+		this.metadata = metadata;
+	}
+    public abstract boolean validate();
+
+}
